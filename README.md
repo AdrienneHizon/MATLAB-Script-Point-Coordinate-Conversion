@@ -40,7 +40,7 @@ example:
 
 
 ## Things to keep in mind
-- Make sure not to be confused on the initialization; the first condition is your original coordinate system, and the second one will be your target coordinate system.
+- Make sure to be clear on the initialization; the first condition is your original coordinate system, and the second will be your target coordinate system.
 - The script is not case-sensitive because the script ensures the string is always in uppercase.
 - Make sure to put this script inside the folder where MATLAB can read it so you can use the script
 
@@ -49,7 +49,7 @@ example:
 
 ## Changelogs
 - 1.02
-  - A text display will now show which system will be converted to another.
+  - A text display will now show which coordinate system will be converted to another.
   - Simplified the calculation for CCS -> SCS and SCS -> CCS
 - 1.00
   - An original version of the script was made.
