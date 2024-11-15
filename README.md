@@ -47,5 +47,13 @@ example:
 ## Dependencies
 - MATLAB (Matrix Laboratory)
 
+## Changelogs
+- 1.02
+  - A text display will now show which system will be converted to another.
+  - Simplified the calculation for CCS -> SCS and SCS -> CCS
+- 1.00
+  - An original version of the script was made.
+
 ## Author
 - Adrienne Hizon :shipit:
+
