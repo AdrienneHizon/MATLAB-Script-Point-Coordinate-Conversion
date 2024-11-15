@@ -49,6 +49,8 @@ example:
 
 ## Changelogs
 - 1.02
+  - A text display will now indicate how a coordinate system format will be inside a vector.
+- 1.01
   - A text display will now show which coordinate system will be converted to another.
   - Simplified the calculation for CCS -> SCS and SCS -> CCS
 - 1.00
